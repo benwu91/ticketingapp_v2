@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 10%;
+    max-width: 1000px;
+}
+
+.create-event-form {
+    text-align: left;
+}
+
+.logout-button {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.my-tickets-button {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+.home-button {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+.book-button {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.ticket-text {
+    float: left;
+}
+
+.ticket-qrcode {
+    float: right;
+    margin: 20px;
+}
+
+.time-input {
+    width: 40%;
+}
